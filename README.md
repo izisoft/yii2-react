@@ -11,7 +11,7 @@ The preferred way to install this extension is through [composer](http://getcomp
 Add to the require section of your `composer.json` file:
 
 ~~~
-composer require izisoft/yii2-react dev-master
+composer require --prefer-dist izisoft/yii2-react dev-master
 or
 "izisoft/yii2-react": "dev-master"
 ~~~
