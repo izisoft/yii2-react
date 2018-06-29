@@ -11,7 +11,9 @@ The preferred way to install this extension is through [composer](http://getcomp
 Add to the require section of your `composer.json` file:
 
 ~~~
-"opw/yii2-react": "dev-master"
+composer require izisoft/yii2-react dev-master
+or
+"izisoft/yii2-react": "dev-master"
 ~~~
 
 And run in terminal
@@ -57,8 +59,3 @@ Further Information
 Please, check the [React.js site](https://facebook.github.io/react/) documentation for further information about its configuration options.
 
 
-Development
--------------------
-[![Mobilizy](http://mobilizy.com.br/beta/img/logo.png)](http://www.mobilizy.com.br)  
-<i>Web & Mobile development</i>  
-[www.mobilizy.com.br](http://www.mobilizy.com.br)  
