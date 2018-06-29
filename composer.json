@@ -1,5 +1,5 @@
 {
-    "name": "opw/yii2-react",
+    "name": "izisoft/yii2-react",
     "description": "The React.js library extension for the Yii framework",
     "keywords": ["yii2", "react"],
     "type": "yii2-extension",
@@ -22,7 +22,7 @@
     },
     "autoload": {
         "psr-4": {
-            "opw\\react\\": ""
+            "izisoft\\react\\": ""
         }
     }
 }
